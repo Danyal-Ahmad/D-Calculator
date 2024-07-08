@@ -53,12 +53,9 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-ahmad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad.D-Calculator)
-
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
 
 
 ## Visitor Counter
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad%2FD-Calculator)](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad%2FD-Calculator)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad.D-Calculator)
