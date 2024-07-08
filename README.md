@@ -1,5 +1,6 @@
 
-## Description
+## Description  [![GitHub User Count](https://img.shields.io/github/followers/Danyal-Ahmad?label=Follow&style=social)](https://github.com/Danyal-Ahmad)
+
 
 D Calculator is a sleek and minimalist Android app developed using Java and Android Studio. It offers a user-friendly interface with smooth animations for a delightful user experience.
 
@@ -52,4 +53,3 @@ Here are some awesome animations to showcase the capabilities and aesthetics of 
 
 
 
-[![GitHub User Count](https://img.shields.io/github/followers/Danyal-Ahmad?label=Follow&style=social)](https://github.com/Danyal-Ahmad)
