@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#333333" /> <!-- Background color for the button -->
+    <corners android:radius="1000dp" /> <!-- Rounded corners radius -->
+    <size
+        android:width="85dp"
+        android:height="85dp"
+        android:textSize="20sp" /> <!-- Width and height of the button -->
+</shape>

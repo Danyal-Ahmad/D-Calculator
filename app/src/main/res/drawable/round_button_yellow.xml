@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FF9500" /> <!-- Use the theme's button background color -->
+    <corners android:radius="1000dp" />
+    <size
+        android:width="85dp"
+        android:height="85dp" /><!-- Large radius to make it fully round -->
+</shape>
