@@ -51,9 +51,12 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-ahmad/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/danyal-ahmaad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/denial_khxn/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/denial_khxn)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@DAG-coder)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Daanyaal.78/)
 
 
 ## Visitor Counter
