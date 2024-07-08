@@ -24,7 +24,7 @@ D Calculator is a sleek and minimalist Android app developed using Java and Andr
 
 1. Clone the repository: `git clone https://github.com/Danyal-Ahmad/calculator.git`
 2. Open Android Studio.
-3. Navigate to `File -> Open` and select the project folder (`C:\Users\(your username)\AndroidStudioProjects\calculator`).
+3. Navigate to `File -> Open` and select the project folder (`C:\Users\(your username)\AndroidStudioProjects`).
 4. Build and run the app on an Android emulator or physical device.
 
 ## Demo
