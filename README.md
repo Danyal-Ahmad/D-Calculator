@@ -32,8 +32,8 @@ D Calculator is a sleek and minimalist Android app developed using Java and Andr
 Here is a screenshot and a demo animation of the D Calculator app:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd" alt="Screenshot" width="300" />
-    <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed" alt="Demo Animation" width="300" />
+    <a href="https://github.com/Danyal-Ahmad/D-Calculator"> <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd" alt="Screenshot" width="300" /> 
+    <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed" alt="Demo Animation" width="300" /></a>
 </div>
 
 ---
