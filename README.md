@@ -58,5 +58,5 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 ## Visitor Counter
 
-![visitor badge](https://visitor-badge.imlete.cn/?id=github.Danyal-Ahmad.D-Calculator&right_color=black&left_text=My%Repo%20Visitors)
+![visitor badge](https://visitor-badge.imlete.cn/?id=github.Danyal-Ahmad.D-Calculator&left_color=blue&right_color=black&left_text=My%Repo%20Visitors)
 
