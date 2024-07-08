@@ -58,4 +58,4 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 ## Visitor Counter
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+(https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
