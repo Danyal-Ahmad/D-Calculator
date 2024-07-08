@@ -53,8 +53,6 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-ahmad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
-
-<a href="/https://github.com/danyal-ahmad/d-calculator/blob/master/readme.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://github.com/danyal-ahmad/d-calculator/blob/master/readme.md" height="30" width="40" /></a>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
 
 
