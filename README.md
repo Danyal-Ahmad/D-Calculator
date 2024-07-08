@@ -1,6 +1,6 @@
 ## Description  
 
-D Calculator is a sleek and minimalist Android app developed using Java and Android Studio. It offers a user-friendly interface with smooth animations for a delightful user experience.
+D Calculator is a sleek and minimalist Android app developed using Java and Android Studio, designed to provide a user-friendly interface and smooth animations for an enjoyable user experience. It resembles the intuitive design of the iPhone device calculator
 
 ## Features
 
