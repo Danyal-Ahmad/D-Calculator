@@ -32,7 +32,7 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd" alt="Screenshot" width="300" />
-    <span style="font-size: 48px;">|</span>
+    <span style="font-size: 500px;">|</span>
     <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed" alt="Demo Animation" width="300" />
 </div>
 
@@ -57,4 +57,5 @@ Here is a screenshot and a demo animation of the D Calculator app:
 
 ## Visitor Counter
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad.calculator)
+<img src="https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad.calculator" alt="Visitor Count">
+
