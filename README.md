@@ -26,11 +26,17 @@ D Calculator is a sleek and minimalist Android app developed using Java and Andr
 3. Navigate to `File -> Open` and select the project folder (`C:\Users\(your username)\AndroidStudioProjects`).
 4. Build and run the app on an Android emulator or physical device.
 
+---
 ## Demo
 
 Here is a screenshot and a demo animation of the D Calculator app:
-![Screenshot](https://github.com/Danyal-Ahmad/D-Calculator/blob/main/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd) ![Demo Animation](https://github.com/Danyal-Ahmad/D-Calculator/blob/main/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed)
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd" alt="Screenshot" width="300" />
+    <span style="font-size: 600rem;">|</span>
+    <img src="https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed" alt="Demo Animation" width="300" />
+</div>
+---
 
 ## Future Improvements
 
@@ -49,7 +55,6 @@ Here is a screenshot and a demo animation of the D Calculator app:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
 
----
-## Visitor Counter
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad/D-Calculator)](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad/D-Calculator)
+## Visitor Counter
+[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad%2FD-Calculator)](https://visitor-badge.glitch.me/badge?page_id=Danyal-Ahmad%2FD-Calculator)
