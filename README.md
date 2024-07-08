@@ -1,6 +1,4 @@
-
 ## Description  [![GitHub User Count](https://img.shields.io/github/followers/Danyal-Ahmad?label=Follow&style=social)](https://github.com/Danyal-Ahmad)
-
 
 D Calculator is a sleek and minimalist Android app developed using Java and Android Studio. It offers a user-friendly interface with smooth animations for a delightful user experience.
 
@@ -30,9 +28,9 @@ D Calculator is a sleek and minimalist Android app developed using Java and Andr
 
 ## Demo
 
-Here are some awesome animations to showcase the capabilities and aesthetics of the D Calculator app:
+Here is a screenshot and a demo animation of the D Calculator app:
 
-![Screenshot_20240708_170329](https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd)
+![Screenshot and Demo](https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/88b13b5c-7f4e-489a-846b-462f6695facd) | ![Demo Animation](https://github.com/Danyal-Ahmad/D-Calculator/assets/75643229/dff00f9b-f5bf-4a56-83dd-59bf7457f1ed)
 
 ## Future Improvements
 
@@ -50,6 +48,3 @@ Here are some awesome animations to showcase the capabilities and aesthetics of 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danyal-ahmad/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danyalahmaad.pjb@gmail.com)
-
-
-
